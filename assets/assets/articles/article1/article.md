@@ -1,7 +1,7 @@
 # ¿Que es la propiedad Horizontal?
 En sí la propiedad horizontal no es un bien inmueble en particular sino un régimen que reglamenta la forma en que se divide un bien inmueble y la relación entre los propietarios de los bienes privados y los bienes comunes que han sido segregados de un terreno o edificio. La propiedad horizontal permite la organización de los copropietarios y el mantenimiento de los bienes comunes.
 
-![](/assets/articles/article1/cover.png)
+![](cover.png)
 
 ## Regulación en Colombia
 
