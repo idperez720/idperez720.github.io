@@ -39243,14 +39243,20 @@ A.adj.prototype={
 $0(){A.f4(this.a).qi("/article",new A.ni(this.b.a),t.X)},
 $S:0}
 A.adh.prototype={
-$2(a,b){var s=null,r=b.b
-if(r!=null)return A.ax(A.h(r),s,s,s,A.be(B.eq,20,s,s,s,s),s,s)
-return B.bQ},
+$2(a,b){var s,r=null,q=b.b
+if(q!=null){q=A.h(q)
+s=t.w
+if(a.O(s).f.a.a<800)s=10
+else s=a.O(s).f.a.a<800?15:20
+return A.ax(q,r,r,r,A.be(B.eq,s,r,r,r,r),r,r)}return B.bQ},
 $S:52}
 A.adi.prototype={
-$2(a,b){var s=null,r=b.b
-if(r!=null)return A.bo(A.ax(A.h(r),s,s,s,A.be(s,26,s,s,s,s),B.ax,s),s,this.a.a*0.4)
-return B.bQ},
+$2(a,b){var s,r=null,q=b.b
+if(q!=null){q=A.h(q)
+s=t.w
+if(a.O(s).f.a.a<800)s=14
+else s=a.O(s).f.a.a<800?19:26
+return A.bo(A.ax(q,r,r,r,A.be(r,s,r,r,r,r),B.ax,r),r,this.a.a*0.4)}return B.bQ},
 $S:53}
 A.SD.prototype={
 bn(){this.c0()
